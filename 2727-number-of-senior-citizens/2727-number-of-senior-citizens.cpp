@@ -10,6 +10,6 @@ public:
             if(num > 60)
             ctS++;
         }
-        return ctS;
+        return ctS;   
     }
 };

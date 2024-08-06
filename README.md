@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
+| [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
@@ -109,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->

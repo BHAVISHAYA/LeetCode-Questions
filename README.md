@@ -131,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->

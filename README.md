@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0040-combination-sum-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

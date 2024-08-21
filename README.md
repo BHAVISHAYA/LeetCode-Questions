@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0492-construct-the-rectangle) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
@@ -177,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

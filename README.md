@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |

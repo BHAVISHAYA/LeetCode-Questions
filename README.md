@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
@@ -68,12 +69,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3330-modify-the-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3330-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3533-snake-in-matrix) |
 ## Math

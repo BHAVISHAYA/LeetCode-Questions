@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
+| [0906-walking-robot-simulation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
+| [0906-walking-robot-simulation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0906-walking-robot-simulation) |
 | [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
+| [0906-walking-robot-simulation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0906-walking-robot-simulation) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |

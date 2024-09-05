@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2155-find-missing-observations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0906-walking-robot-simulation) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2155-find-missing-observations) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3533-snake-in-matrix) |
 ## Math
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0492-construct-the-rectangle) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [2155-find-missing-observations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2155-find-missing-observations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers

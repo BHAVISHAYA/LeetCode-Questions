@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3330-modify-the-matrix) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2155-find-missing-observations) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3533-snake-in-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3533-snake-in-matrix) |
 ## Math
 |  |

@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0725-split-linked-list-in-parts](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |

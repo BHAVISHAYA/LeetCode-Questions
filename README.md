@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3379-score-of-a-string) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3533-snake-in-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3533-snake-in-matrix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2155-find-missing-observations) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3533-snake-in-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3533-snake-in-matrix) |
 ## Math
 |  |

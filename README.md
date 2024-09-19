@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
@@ -274,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

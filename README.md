@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0101-symmetric-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |

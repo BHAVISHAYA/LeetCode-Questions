@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1642-water-bottles](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2155-find-missing-observations) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0164-maximum-gap](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -314,5 +315,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0091-decode-ways](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [1250-longest-common-subsequence](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->

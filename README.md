@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0046-permutations) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 ## Sliding Window
 |  |

@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search

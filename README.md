@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0906-walking-robot-simulation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0906-walking-robot-simulation) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation

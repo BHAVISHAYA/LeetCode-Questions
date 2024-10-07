@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0101-symmetric-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1005-univalued-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |

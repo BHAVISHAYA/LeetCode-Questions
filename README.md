@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1532-reformat-the-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1532-reformat-the-string) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Rolling Hash
 |  |
 | ------- |

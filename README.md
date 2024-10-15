@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
+| [3195-separate-black-and-white-balls](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [3195-separate-black-and-white-balls](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3195-separate-black-and-white-balls](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |

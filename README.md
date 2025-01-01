@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3330-modify-the-matrix) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |

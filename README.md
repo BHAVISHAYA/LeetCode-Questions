@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3533-snake-in-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3533-snake-in-matrix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |

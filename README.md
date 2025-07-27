@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1005-univalued-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1005-univalued-binary-tree) |
@@ -257,10 +259,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |

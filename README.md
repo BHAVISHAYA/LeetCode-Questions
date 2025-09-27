@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0164-maximum-gap](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
@@ -259,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph

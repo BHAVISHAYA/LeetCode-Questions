@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0801-is-graph-bipartite](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1005-univalued-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0801-is-graph-bipartite](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1005-univalued-binary-tree](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -265,11 +267,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |

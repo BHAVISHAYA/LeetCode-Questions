@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0433-minimum-genetic-mutation](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0433-minimum-genetic-mutation) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |

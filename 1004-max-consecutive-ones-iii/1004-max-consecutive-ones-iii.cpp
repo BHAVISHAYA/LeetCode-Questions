@@ -6,12 +6,14 @@ public:
             if (arr[r] == 0) {
                 zeros++;
             }
-            while (zeros > k) {
+            if (zeros > k) {
                 if (arr[l] == 0) {
                     zeros--;
                 }
                 l++;
             }
+
+            if(zeros <= k)
             maxLen = max(maxLen, r - l + 1);
             r++;
         }

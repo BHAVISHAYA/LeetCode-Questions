@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1532-reformat-the-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation

@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3330-modify-the-matrix) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2502-sort-the-people) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/BHAVISHAYA/LeetCode-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
